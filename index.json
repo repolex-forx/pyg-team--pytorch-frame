@@ -1,0 +1,11 @@
+{
+  "org": "pyg-team",
+  "repo": "pytorch-frame",
+  "versions": [
+    {
+      "commit": "3ed76b132242be6ce5f63851052e114e57aaec5d",
+      "tag": "",
+      "parsed_at": "2026-11-08T00:24:24.305896+00:00"
+    }
+  ]
+}
