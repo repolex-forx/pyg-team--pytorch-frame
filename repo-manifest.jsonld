@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pyg-team/pytorch-frame/commit/3ed76b132242be6ce5f63851052e114e57aaec5d",
       "git:hexsha": "3ed76b132242be6ce5f63851052e114e57aaec5d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T00:24:24.305382+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pyg-team/pytorch-frame/commit/90a54f4e276bd509a2f6593f5c1698f14e8e18d9",
